@@ -255,3 +255,55 @@ hr {
   margin-top: 50px;
   margin-bottom: 20px;
 }
+
+/* ВТОРАЯ СТРАНИЦА */
+
+section.hero_call_of_duty {
+  background-image: url(/img/CoD-WWII.png);
+}
+
+section.hero_call_of_duty h1 {
+  font-weight: 400;
+  font-size: 36px;
+  color: #fff;
+  padding-left: 831px;
+  padding-top: 210px;
+}
+
+section.hero_call_of_duty .btn2 {
+  background-color: #7dd42f;
+}
+
+section.hero_call_of_duty h2 {
+  font-weight: 400;
+  font-size: 24px;
+  color: #fff;
+  padding-left: 831px;
+  padding-bottom: 157px;
+}
+
+/* Call_of_Duty_WWII */
+section.Call_of_Duty_WWII h1 {
+  text-align: center;
+  font-weight: 400;
+  font-size: 36px;
+  color: #435766;
+  padding-top: 99px;
+  padding-bottom: 205px;
+}
+
+.video {
+  display: flex;
+  margin: 0 auto;
+  padding-bottom: 100px;
+}
+
+.content {
+  display: flex;
+}
+
+.content p {
+  font-weight: 400;
+  font-size: 36px;
+  color: #435766;
+}
